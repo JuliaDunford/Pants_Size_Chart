@@ -1,0 +1,191 @@
+Brand,Waist,Alpha_Size,Num_Size,Brand_Type
+H&M,22.75 - 24.5,XXS,0,Retail
+H&M,24.5 - 26,XS,2,Retail
+H&M,26 - 27.5,S,4,Retail
+H&M,27.5 - 29,S,6,Retail
+H&M,29 - 30.75,M,8,Retail
+H&M,30.75 - 32.5,M,10,Retail
+H&M,32.5 - 34.5,L,12,Retail
+H&M,34.5 - 36.5,L,14,Retail
+H&M,36.5 - 39,XL,16,Retail
+H&M,39 - 41.25,XL,18,Retail
+H&M,41.25 - 43.75,2XL,20,Retail
+H&M,43.75 - 46.25,2XL,22,Retail
+H&M,46.25 - 49,3XL,24,Retail
+H&M,49 - 51.75,3XL,26,Retail
+H&M,51.75 - 54.50,4XL,28,Retail
+H&M,54.50 - 57.25,4XL,30,Retail
+,,,,
+Levis,26.5 - 27,n/a,26,Retail
+Levis,27.5 - 28,n/a,27,Retail
+Levis,28.5 - 29,n/a,28,Retail
+Levis,29.5 - 30,n/a,29,Retail
+Levis,30.5 - 31,n/a,30,Retail
+Levis,31.5 - 32,n/a,31,Retail
+Levis,32.5 - 33,n/a,32,Retail
+Levis,33.5 - 34,n/a,33,Retail
+Levis,34.5 - 35,n/a,34,Retail
+Levis,35.5 - 36,n/a,35,Retail
+Levis,36.5 - 37.5,n/a,36,Retail
+Levis,38.5 - 39.5,n/a,38,Retail
+Levis,40.5 - 41.5,n/a,40,Retail
+Levis,42.5 - 43.5,n/a,42,Retail
+Levis,44.5 - 45.5,n/a,44,Retail
+Levis,46.5 - 47.5,n/a,46,Retail
+Levis,48.5 - 49.5,n/a,48,Retail
+Levis,50.5 - 51.5,n/a,50,Retail
+Levis,52.5 - 53.5,n/a,52,Retail
+Levis,54.5 - 55.5,n/a,54,Retail
+Levis,56.5 - 57.5,n/a,56,Retail
+Levis,58.5 - 59.5,n/a,58,Retail
+Levis,60.5 - 61.5,n/a,60,Retail
+,,,,
+American Eagle,23.5,XXS,0,Retail
+American Eagle,24.5,XS,0,Retail
+American Eagle,25.5,XS,2,Retail
+American Eagle,26.5,S,4,Retail
+American Eagle,27.5,S,6,Retail
+American Eagle,28.5,M,8,Retail
+American Eagle,30,M,10,Retail
+American Eagle,31.5,L,12,Retail
+American Eagle,33,L,14,Retail
+American Eagle,34.5,XL,16,Retail
+American Eagle,36.5,XL,18,Retail
+American Eagle,38.5,XXL,20,Retail
+,,,,
+Everlane,23,23,000,Retail
+Everlane,24,24,00,Retail
+Everlane,25,25,0,Retail
+Everlane,26,26,2,Retail
+Everlane,27,27,4,Retail
+Everlane,28,28,6,Retail
+Everlane,29,29,8,Retail
+Everlane,30.25,30,10,Retail
+Everlane,31.75,31,12,Retail
+Everlane,33.25,32,14,Retail
+Everlane,35.5,33,16,Retail
+Everlane,38,34,18,Retail
+Everlane,40,35,20,Retail
+,,,,
+Madewell,24,n/a,23,Retail
+Madewell,25,n/a,24,Retail
+Madewell,26,n/a,25,Retail
+Madewell,27,n/a,26,Retail
+Madewell,28,n/a,27,Retail
+Madewell,29,n/a,28,Retail
+Madewell,30.25,n/a,29,Retail
+Madewell,31.5,n/a,30,Retail
+Madewell,33,n/a,31,Retail
+Madewell,34.5,n/a,32,Retail
+Madewell,36.25,n/a,33,Retail
+Madewell,37,14W,n/a,Retail
+Madewell,39,16W,n/a,Retail
+Madewell,41,18W,n/a,Retail
+Madewell,43,20W,n/a,Retail
+Madewell,45,22W,n/a,Retail
+Madewell,47,24W,n/a,Retail
+Madewell,49,26W,n/a,Retail
+Madewell,51,28W,n/a,Retail
+,,,,
+Calvin Klein,25,XS ,0,Designer
+Calvin Klein,26,XS ,2,Designer
+Calvin Klein,27,S ,4,Designer
+Calvin Klein,28,S ,6,Designer
+Calvin Klein,29,M ,8,Designer
+Calvin Klein,30,M ,10,Designer
+Calvin Klein,31,L ,12,Designer
+Calvin Klein,32,L ,14,Designer
+,,,,
+Zara,22.75,XXS,n/a,Retail
+Zara,24.5,XS,n/a,Retail
+Zara,25.25,n/a,2,Retail
+Zara,26,S,4,Retail
+Zara,27.5,M,6,Retail
+Zara,29,n/a,8,Retail
+Zara,30,L ,n/a,Retail
+Zara,30.75,n/a,10,Retail
+Zara,32.25,XL ,12,Retail
+Zara,33.75,n/a,14,Retail
+,,,,
+Ann Taylor,23.5,XXS,00,Retail
+Ann Taylor,24.5,XS,0,Retail
+Ann Taylor,25.5,XS,2,Retail
+Ann Taylor,26.5,S,4,Retail
+Ann Taylor,27.5,S,6,Retail
+Ann Taylor,28.5,M,8,Retail
+Ann Taylor,29.5,M,10,Retail
+Ann Taylor,31,L,12,Retail
+Ann Taylor,32.5,L,14,Retail
+Ann Taylor,34,XL,16,Retail
+Ann Taylor,36,XXL ,18,Retail
+,,,,
+Ralph Lauren,26.5,n/a,2,Designer
+Ralph Lauren,27.5,n/a,4,Designer
+Ralph Lauren,28.5,n/a,6,Designer
+Ralph Lauren,29.5,n/a,8,Designer
+Ralph Lauren,31,n/a,10,Designer
+Ralph Lauren,32.5,n/a,12,Designer
+Ralph Lauren,34,n/a,14,Designer
+Ralph Lauren,35.5,n/a,16,Designer
+,,,,
+Gap,23.5,n/a,00,Retail
+Gap,24.5,n/a,0,Retail
+Gap,25.5,n/a,2,Retail
+Gap,26.5,n/a,4,Retail
+Gap,27.5,n/a,6,Retail
+Gap,28.5,n/a,8,Retail
+Gap,29.5,n/a,10,Retail
+Gap,30.75,n/a,12,Retail
+Gap,32,n/a,14,Retail
+Gap,33.75,n/a,16,Retail
+Gap,35.75,n/a,18,Retail
+Gap,37.75,n/a,20,Retail
+,,,,
+Gucci,23.2,XXXS,,Designer
+Gucci,24.4,XXS,0,Designer
+Gucci,25.6,XS,2,Designer
+Gucci,26.8,S,4,Designer
+Gucci,27.9,M,6,Designer
+Gucci,29.5,L,8,Designer
+Gucci,31.1,XL,10,Designer
+Gucci,32.7,XXL,12,Designer
+,,,,
+Versace,26,XS,2,Designer
+Versace,27,S,4,Designer
+Versace,28,M,6,Designer
+Versace,30,L,8,Designer
+Versace,31,XL,10,Designer
+Versace,34,XXL,12,Designer
+,,,,
+Alexander McQueen,23,n/a,0,Designer
+Alexander McQueen,24,n/a,2,Designer
+Alexander McQueen,25,n/a,4,Designer
+Alexander McQueen,26,n/a,6,Designer
+Alexander McQueen,27,n/a,8,Designer
+Alexander McQueen,28,n/a,10,Designer
+Alexander McQueen,29.5,n/a,12,Designer
+Alexander McQueen,31,n/a,14,Designer
+Alexander McQueen,32.5,n/a,16,Designer
+,,,,
+Dolce&Gabbana,23,XS,0,Designer
+Dolce&Gabbana,24,S,2,Designer
+Dolce&Gabbana,25,M,4,Designer
+Dolce&Gabbana,26,L,6,Designer
+Dolce&Gabbana,27,XL,8,Designer
+Dolce&Gabbana,28,XXL,10,Designer
+,,,,
+Yves Saint Laurent,22.3,XXS,0,Designer
+Yves Saint Laurent,24,XS,2,Designer
+Yves Saint Laurent,25.2,S,4,Designer
+Yves Saint Laurent,26.4,M,6,Designer
+Yves Saint Laurent,27.9,L,8,Designer
+Yves Saint Laurent,29.5,XL,10,Designer
+Yves Saint Laurent,31.1,XXL,12,Designer
+Yves Saint Laurent,32.7,XXXL,14,Designer
+Yves Saint Laurent,34.3,,16,Designer
+,,,,
+Guess,24.5-25,XS,0,Designer
+Guess,26-27,S,2-4,Designer
+Guess,27.5-28,M,6,Designer
+Guess,29.5-30,L,8,Designer
+Guess,31-32.5,XL,10,Designer
